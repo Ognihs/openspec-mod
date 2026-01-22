@@ -240,7 +240,7 @@ Technical check-points for the developer.
 ```
 Not every chapter is needed, if one chapter is not effected, mark as "Not related".
 
-1. **Create tasks.md:**
+5. **Create tasks.md:**
 ```markdown
 ## 1. Implementation
 - [ ] 1.1 Create database schema
@@ -249,7 +249,7 @@ Not every chapter is needed, if one chapter is not effected, mark as "Not relate
 - [ ] 1.4 Write tests
 ```
 
-1. **Create design.md when needed:**
+6. **Create design.md when needed:**
 Create `design.md` if any of the following apply; otherwise omit it:
 - Cross-cutting change (multiple services/modules) or a new architectural pattern
 - New external dependency or significant data model changes
